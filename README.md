@@ -1,5 +1,5 @@
 # APB_Bridge_2pheripheral
-
+EDA playground link: https://www.edaplayground.com/x/A6a3
 Here's a **detailed analysis and description** of your **APB Bridge System RTL project**, broken down into logical components and behavior:
 
 ---
